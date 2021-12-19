@@ -42,6 +42,7 @@ img {
   -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0), 0 6px 36px rgba(0, 0, 0, 0.13);
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0), 0 6px 36px rgba(0, 0, 0, 0.13);
   background-color: #fff;
+  margin-top: 50px;
 }
 
 .card__image {
